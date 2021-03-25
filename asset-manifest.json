@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/PingMe/static/css/main.1491b540.chunk.css",
-    "main.js": "/PingMe/static/js/main.710bf69f.chunk.js",
-    "main.js.map": "/PingMe/static/js/main.710bf69f.chunk.js.map",
+    "main.js": "/PingMe/static/js/main.b61ee6c1.chunk.js",
+    "main.js.map": "/PingMe/static/js/main.b61ee6c1.chunk.js.map",
     "runtime-main.js": "/PingMe/static/js/runtime-main.2b59717f.js",
     "runtime-main.js.map": "/PingMe/static/js/runtime-main.2b59717f.js.map",
-    "static/js/2.6f60e52c.chunk.js": "/PingMe/static/js/2.6f60e52c.chunk.js",
-    "static/js/2.6f60e52c.chunk.js.map": "/PingMe/static/js/2.6f60e52c.chunk.js.map",
+    "static/js/2.a4fe5b63.chunk.js": "/PingMe/static/js/2.a4fe5b63.chunk.js",
+    "static/js/2.a4fe5b63.chunk.js.map": "/PingMe/static/js/2.a4fe5b63.chunk.js.map",
     "index.html": "/PingMe/index.html",
     "static/css/main.1491b540.chunk.css.map": "/PingMe/static/css/main.1491b540.chunk.css.map",
-    "static/js/2.6f60e52c.chunk.js.LICENSE.txt": "/PingMe/static/js/2.6f60e52c.chunk.js.LICENSE.txt"
+    "static/js/2.a4fe5b63.chunk.js.LICENSE.txt": "/PingMe/static/js/2.a4fe5b63.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2b59717f.js",
-    "static/js/2.6f60e52c.chunk.js",
+    "static/js/2.a4fe5b63.chunk.js",
     "static/css/main.1491b540.chunk.css",
-    "static/js/main.710bf69f.chunk.js"
+    "static/js/main.b61ee6c1.chunk.js"
   ]
 }
